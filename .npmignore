@@ -1,5 +1,7 @@
-*.swp
-build
-coverage
 test
-.cache
+doc
+lib
+.vscode
+.editorconfig
+.nvmrc
+.travis.yml
